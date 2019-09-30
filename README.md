@@ -1,24 +1,12 @@
-[Original](https://hibiken.github.io/react-places-autocomplete/)
 [![travis build](https://img.shields.io/travis/kenny-hibino/react-places-autocomplete.svg?style=flat-square)](https://travis-ci.org/kenny-hibino/react-places-autocomplete)
 [![MIT-License](https://img.shields.io/npm/l/react-places-autocomplete.svg?style=flat-square)]()
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/react-places-autocomplete/Lobby)
 
 # React Places Autocomplete
 
+[Original](https://hibiken.github.io/react-places-autocomplete/)
+
 A React component to build a customized UI for Google Maps Places Autocomplete
-
-### Demo
-
-Live demo: [hibiken.github.io/react-places-autocomplete/](https://hibiken.github.io/react-places-autocomplete/)
-
-### Features
-
-1. Enable you to easily build a customized autocomplete dropdown powered by [Google Maps Places Library](https://developers.google.com/maps/documentation/javascript/places)
-2. [Utility functions](#utility-functions) to geocode and get latitude and longitude using [Google Maps Geocoder API](https://developers.google.com/maps/documentation/javascript/geocoding)
-3. Full control over rendering to integrate well with other libraries (e.g. Redux-Form)
-4. Mobile friendly UX
-5. WAI-ARIA compliant
-6. Support Asynchronous Google script loading
 
 ### Installation
 
